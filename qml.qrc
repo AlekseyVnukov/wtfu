@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>png/33DyoE3xdNk.jpg</file>
+        <file>png/icon-left-arrow.png</file>
+        <file>png/Vl1NKVEMA8o.jpg</file>
+        <file>png/vyZvgPmATo8.jpg</file>
+        <file>png/wtfu.png</file>
+        <file>png/wtfu1.png</file>
+        <file>Wild_field.qml</file>
+        <file>TestModel.qml</file>
+        <file>Cross_archery.qml</file>
+        <file>Full_experience.qml</file>
+        <file>FirstRound.qml</file>
+        <file>SecondRound.qml</file>
+        <file>ThirdRound.qml</file>
+        <file>Scorecard.qml</file>
+        <file>Parser.js</file>
+    </qresource>
+</RCC>
